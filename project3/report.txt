@@ -1,0 +1,38 @@
+Parity
+------------
+GreenEggsAndHam.txt         .003s        
+Macbeth.txt                 .013s
+Genesis.txt                 .019s
+HoundOfTheBaskervilles.txt  .023s
+TheWarOfTheWorlds.txt       .021s
+TreasureIsland.txt          .024s
+TheSecretGarden.txt         .023s
+TheCountOfMonteCristo.txt   .160s
+TwentyThousandLeagues.txt   .036s
+Bible.txt                   .199s
+
+Unique
+----------
+GreenEggsAndHam.txt         .003s
+Macbeth.txt                 .010s
+Genesis.txt                 .015s
+HoundOfTheBaskervilles.txt  .018s
+TheWarOfTheWorlds.txt       .019s
+TreasureIsland.txt          .018s
+TheSecretGarden.txt         .019s
+TheCountOfMonteCristo.txt   .160s
+TwentyThousandLeagues.txt   .026s
+Bible.txt                   .093s
+
+Bincount
+----------
+GreenEggsAndHam.txt         .005s
+Macbeth.txt                 .013s
+Genesis.txt                 .015s
+HoundOfTheBaskervilles.txt  .019s
+TheWarOfTheWorlds.txt       .020s
+TreasureIsland.txt          .022s
+TheSecretGarden.txt         .023s
+TheCountOfMonteCristo.txt   .068s
+TwentyThousandLeagues.txt   .026s
+Bible.txt                   .094s
